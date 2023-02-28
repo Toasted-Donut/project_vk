@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="50dp" android:width="50dp" android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="@color/grey"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/round_mic_24" android:height="24dp" android:width="24dp" android:gravity="center"/>
+</layer-list>
